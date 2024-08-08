@@ -1,0 +1,4 @@
+Source : https://www.youtube.com/watch?v=UHUSqJDKe-Q
+GitHub : https://github.com/Nabinji/100-DaysOf-Futter/tree/main/ecommerce_mobile_app
+Time : 1:56:57
+Flutter Version : 3.10.6
